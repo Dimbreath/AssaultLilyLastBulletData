@@ -1,0 +1,53 @@
+[
+    {
+        "gveMapMstId": 1,
+        "mapType": 1,
+        "name": "外征任務",
+        "description": "",
+        "firstGveStageMstId": 110101,
+        "lastGveStageMstId": 110105,
+        "clearGveStageMstId": 0,
+        "clearQuestStageMstId": 0,
+        "dailyPlayCount": 0,
+        "weeklyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "recoverWeeklyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 30000
+    },
+    {
+        "gveMapMstId": 2,
+        "mapType": 1,
+        "name": "外征任務",
+        "description": "",
+        "firstGveStageMstId": 210101,
+        "lastGveStageMstId": 210103,
+        "clearGveStageMstId": 110105,
+        "clearQuestStageMstId": 0,
+        "dailyPlayCount": 1,
+        "weeklyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "recoverWeeklyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 30001
+    },
+    {
+        "gveMapMstId": 101,
+        "mapType": 1,
+        "name": "外征任務",
+        "description": "",
+        "firstGveStageMstId": 10110101,
+        "lastGveStageMstId": 10110103,
+        "clearGveStageMstId": 0,
+        "clearQuestStageMstId": 20110132,
+        "dailyPlayCount": 1,
+        "weeklyPlayCount": 0,
+        "recoverDailyPlayCount": 0,
+        "recoverWeeklyPlayCount": 0,
+        "hasNextComingSoon": false,
+        "movieMstId": 0,
+        "bannerMstId": 31000
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "missionTitleMstId": 1,
+        "title": "デイリーミッション"
+    },
+    {
+        "missionTitleMstId": 2,
+        "title": "リリィパスポートミッション"
+    },
+    {
+        "missionTitleMstId": 1001,
+        "title": "初心者ミッション"
+    },
+    {
+        "missionTitleMstId": 1002,
+        "title": "中級者ミッション"
+    },
+    {
+        "missionTitleMstId": 10001,
+        "title": "リリース記念キャンペーンミッション"
+    },
+    {
+        "missionTitleMstId": 10002,
+        "title": "守護天使の誓い-デイリーミッション"
+    },
+    {
+        "missionTitleMstId": 10003,
+        "title": "守護天使の誓い-イベントミッション"
+    },
+    {
+        "missionTitleMstId": 10004,
+        "title": "外征任務チャレンジミッション"
+    },
+    {
+        "missionTitleMstId": 30001,
+        "title": "メインミッション"
+    }
+]

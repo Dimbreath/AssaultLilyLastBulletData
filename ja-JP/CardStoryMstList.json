@@ -1,0 +1,290 @@
+[
+    {
+        "cardStoryMstId": 1,
+        "fileName": "story_memoria_010001001",
+        "uniqueId": 10001001,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 2,
+        "fileName": "story_memoria_010001002",
+        "uniqueId": 10001002,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 3,
+        "fileName": "story_memoria_010001003",
+        "uniqueId": 10001003,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 4,
+        "fileName": "story_memoria_010001004",
+        "uniqueId": 10001004,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 5,
+        "fileName": "story_memoria_010001005",
+        "uniqueId": 10001005,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 6,
+        "fileName": "story_memoria_010001006",
+        "uniqueId": 10001006,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 7,
+        "fileName": "story_memoria_010001007",
+        "uniqueId": 10001007,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 8,
+        "fileName": "story_memoria_010001008",
+        "uniqueId": 10001008,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 9,
+        "fileName": "story_memoria_010001009",
+        "uniqueId": 10001009,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 10,
+        "fileName": "story_memoria_010001010",
+        "uniqueId": 10001010,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 11,
+        "fileName": "story_memoria_010001011",
+        "uniqueId": 10001011,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 12,
+        "fileName": "story_memoria_010001012",
+        "uniqueId": 10001012,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 13,
+        "fileName": "story_memoria_010001013",
+        "uniqueId": 10001013,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 14,
+        "fileName": "story_memoria_010001014",
+        "uniqueId": 10001014,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 15,
+        "fileName": "story_memoria_010001015",
+        "uniqueId": 10001015,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 16,
+        "fileName": "story_memoria_010001016",
+        "uniqueId": 10001016,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 17,
+        "fileName": "story_memoria_010001017",
+        "uniqueId": 10001017,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 18,
+        "fileName": "story_memoria_010001018",
+        "uniqueId": 10001018,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 19,
+        "fileName": "story_memoria_010001019",
+        "uniqueId": 10001019,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 20,
+        "fileName": "story_memoria_010002001",
+        "uniqueId": 10002001,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 21,
+        "fileName": "story_memoria_010002002",
+        "uniqueId": 10002002,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 22,
+        "fileName": "story_memoria_010002003",
+        "uniqueId": 10002003,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 23,
+        "fileName": "story_memoria_010002004",
+        "uniqueId": 10002004,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 24,
+        "fileName": "story_memoria_010002005",
+        "uniqueId": 10002005,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 25,
+        "fileName": "story_memoria_010002006",
+        "uniqueId": 10002006,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 26,
+        "fileName": "story_memoria_010002007",
+        "uniqueId": 10002007,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 27,
+        "fileName": "story_memoria_010002008",
+        "uniqueId": 10002008,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 28,
+        "fileName": "story_memoria_010002009",
+        "uniqueId": 10002009,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 29,
+        "fileName": "story_memoria_020000020",
+        "uniqueId": 20000020,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 30,
+        "fileName": "story_memoria_020000021",
+        "uniqueId": 20000021,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 31,
+        "fileName": "story_memoria_020000062",
+        "uniqueId": 20000062,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 32,
+        "fileName": "story_memoria_020000066",
+        "uniqueId": 20000066,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 33,
+        "fileName": "story_memoria_010003002",
+        "uniqueId": 10003002,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 34,
+        "fileName": "story_memoria_020000064",
+        "uniqueId": 20000064,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 35,
+        "fileName": "story_memoria_020000023",
+        "uniqueId": 20000023,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    },
+    {
+        "cardStoryMstId": 36,
+        "fileName": "story_memoria_020000046",
+        "uniqueId": 20000046,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 30
+    }
+]

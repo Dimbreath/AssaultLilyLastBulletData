@@ -1,0 +1,93 @@
+[
+    {
+        "shopDetailMstId": 101,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1200595,
+        "num": 1
+    },
+    {
+        "shopDetailMstId": 102,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1200614,
+        "num": 1
+    },
+    {
+        "shopDetailMstId": 103,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1201584,
+        "num": 1
+    },
+    {
+        "shopDetailMstId": 104,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1201633,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 105,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1200923,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 106,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1201683,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 107,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1201033,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 108,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1200653,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 109,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1200663,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 110,
+        "shopMstId": 1,
+        "objectType": 1,
+        "objectId": 1201543,
+        "num": 2
+    },
+    {
+        "shopDetailMstId": 111,
+        "shopMstId": 1,
+        "objectType": 5,
+        "objectId": 2001700,
+        "num": 10
+    },
+    {
+        "shopDetailMstId": 112,
+        "shopMstId": 1,
+        "objectType": 5,
+        "objectId": 2007000,
+        "num": 5
+    },
+    {
+        "shopDetailMstId": 201,
+        "shopMstId": 2,
+        "objectType": 5,
+        "objectId": 1001200,
+        "num": 1
+    }
+]

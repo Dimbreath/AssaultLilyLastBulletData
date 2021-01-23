@@ -1,0 +1,562 @@
+[
+    {
+        "guildBenefitQuestLevelUpMstId": 1001,
+        "guildBenefitQuestMstId": 1000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 250,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1002,
+        "guildBenefitQuestMstId": 1000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 400,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1003,
+        "guildBenefitQuestMstId": 1000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1004,
+        "guildBenefitQuestMstId": 1000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 1000,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1005,
+        "guildBenefitQuestMstId": 1000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 1625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1006,
+        "guildBenefitQuestMstId": 1000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 2600,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1007,
+        "guildBenefitQuestMstId": 1000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 4175,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1008,
+        "guildBenefitQuestMstId": 1000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 6700,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1009,
+        "guildBenefitQuestMstId": 1000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 10725,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 1010,
+        "guildBenefitQuestMstId": 1000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2001,
+        "guildBenefitQuestMstId": 2000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 250,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2002,
+        "guildBenefitQuestMstId": 2000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 400,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2003,
+        "guildBenefitQuestMstId": 2000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2004,
+        "guildBenefitQuestMstId": 2000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 1000,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2005,
+        "guildBenefitQuestMstId": 2000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 1625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2006,
+        "guildBenefitQuestMstId": 2000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 2600,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2007,
+        "guildBenefitQuestMstId": 2000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 4175,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2008,
+        "guildBenefitQuestMstId": 2000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 6700,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2009,
+        "guildBenefitQuestMstId": 2000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 10725,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 2010,
+        "guildBenefitQuestMstId": 2000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3001,
+        "guildBenefitQuestMstId": 3000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 250,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3002,
+        "guildBenefitQuestMstId": 3000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 400,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3003,
+        "guildBenefitQuestMstId": 3000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3004,
+        "guildBenefitQuestMstId": 3000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 1000,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3005,
+        "guildBenefitQuestMstId": 3000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 1625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3006,
+        "guildBenefitQuestMstId": 3000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 2600,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3007,
+        "guildBenefitQuestMstId": 3000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 4175,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3008,
+        "guildBenefitQuestMstId": 3000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 6700,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3009,
+        "guildBenefitQuestMstId": 3000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 10725,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 3010,
+        "guildBenefitQuestMstId": 3000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4001,
+        "guildBenefitQuestMstId": 4000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 250,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4002,
+        "guildBenefitQuestMstId": 4000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 400,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4003,
+        "guildBenefitQuestMstId": 4000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4004,
+        "guildBenefitQuestMstId": 4000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 1000,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4005,
+        "guildBenefitQuestMstId": 4000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 1625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4006,
+        "guildBenefitQuestMstId": 4000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 2600,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4007,
+        "guildBenefitQuestMstId": 4000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 4175,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4008,
+        "guildBenefitQuestMstId": 4000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 6700,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4009,
+        "guildBenefitQuestMstId": 4000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 10725,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 4010,
+        "guildBenefitQuestMstId": 4000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5001,
+        "guildBenefitQuestMstId": 5000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 250,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5002,
+        "guildBenefitQuestMstId": 5000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 400,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5003,
+        "guildBenefitQuestMstId": 5000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5004,
+        "guildBenefitQuestMstId": 5000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 1000,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5005,
+        "guildBenefitQuestMstId": 5000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 1625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5006,
+        "guildBenefitQuestMstId": 5000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 2600,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5007,
+        "guildBenefitQuestMstId": 5000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 4175,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5008,
+        "guildBenefitQuestMstId": 5000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 6700,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5009,
+        "guildBenefitQuestMstId": 5000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 10725,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 5010,
+        "guildBenefitQuestMstId": 5000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6001,
+        "guildBenefitQuestMstId": 6000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 50,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6002,
+        "guildBenefitQuestMstId": 6000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 75,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6003,
+        "guildBenefitQuestMstId": 6000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 100,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6004,
+        "guildBenefitQuestMstId": 6000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 125,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6005,
+        "guildBenefitQuestMstId": 6000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 250,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6006,
+        "guildBenefitQuestMstId": 6000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 375,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6007,
+        "guildBenefitQuestMstId": 6000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 750,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6008,
+        "guildBenefitQuestMstId": 6000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 1125,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6009,
+        "guildBenefitQuestMstId": 6000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 2200,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 6010,
+        "guildBenefitQuestMstId": 6000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 4
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7001,
+        "guildBenefitQuestMstId": 7000,
+        "level": 1,
+        "value": 1,
+        "donationNum": 250,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7002,
+        "guildBenefitQuestMstId": 7000,
+        "level": 2,
+        "value": 2,
+        "donationNum": 400,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7003,
+        "guildBenefitQuestMstId": 7000,
+        "level": 3,
+        "value": 3,
+        "donationNum": 625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7004,
+        "guildBenefitQuestMstId": 7000,
+        "level": 4,
+        "value": 4,
+        "donationNum": 1000,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7005,
+        "guildBenefitQuestMstId": 7000,
+        "level": 5,
+        "value": 5,
+        "donationNum": 1625,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7006,
+        "guildBenefitQuestMstId": 7000,
+        "level": 6,
+        "value": 6,
+        "donationNum": 2600,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7007,
+        "guildBenefitQuestMstId": 7000,
+        "level": 7,
+        "value": 7,
+        "donationNum": 4175,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7008,
+        "guildBenefitQuestMstId": 7000,
+        "level": 8,
+        "value": 8,
+        "donationNum": 6700,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7009,
+        "guildBenefitQuestMstId": 7000,
+        "level": 9,
+        "value": 9,
+        "donationNum": 10725,
+        "activateNum": 8
+    },
+    {
+        "guildBenefitQuestLevelUpMstId": 7010,
+        "guildBenefitQuestMstId": 7000,
+        "level": 10,
+        "value": 10,
+        "donationNum": 0,
+        "activateNum": 8
+    }
+]

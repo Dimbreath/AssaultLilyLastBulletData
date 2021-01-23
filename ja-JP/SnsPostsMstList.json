@@ -1,0 +1,58 @@
+[
+    {
+        "snsPostsMstId": 1,
+        "snsPostsType": 1,
+        "fixedMessage": "",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    },
+    {
+        "snsPostsMstId": 2,
+        "snsPostsType": 2,
+        "fixedMessage": "",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    },
+    {
+        "snsPostsMstId": 3,
+        "snsPostsType": 3,
+        "fixedMessage": "今回のガチャ結果はこちら",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    },
+    {
+        "snsPostsMstId": 4,
+        "snsPostsType": 4,
+        "fixedMessage": "今日 <CHARACTER_BIRTHDAY>は<CHARACTER_NAME>の誕生日です。<CHARACTER_FIRST_NAME>をお祝いしよう",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    },
+    {
+        "snsPostsMstId": 5,
+        "snsPostsType": 5,
+        "fixedMessage": "",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    },
+    {
+        "snsPostsMstId": 6,
+        "snsPostsType": 6,
+        "fixedMessage": "アサルトリリィ Last Bulletのプロフィールはこちら",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    },
+    {
+        "snsPostsMstId": 7,
+        "snsPostsType": 7,
+        "fixedMessage": "",
+        "isImgActive": true,
+        "startTime": -62170017539,
+        "endTime": -62170017539
+    }
+]

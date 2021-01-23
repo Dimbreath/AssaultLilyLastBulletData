@@ -1,0 +1,26 @@
+[
+    {
+        "gveAreaMstId": 1101,
+        "gveMapMstId": 1,
+        "name": "ボリタス撃破任務",
+        "description": "ボリタス撃破任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "gveAreaMstId": 2101,
+        "gveMapMstId": 2,
+        "name": "エアルム撃破任務",
+        "description": "エアルム撃破任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "gveAreaMstId": 101101,
+        "gveMapMstId": 101,
+        "name": "メリサ撃破任務",
+        "description": "メリサ撃破任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    }
+]

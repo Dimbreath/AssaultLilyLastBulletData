@@ -1,0 +1,4160 @@
+[
+    {
+        "skillMstId": 1011101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1011312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1012312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1021312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1022312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1031312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1032312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1051312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1052312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1061312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 1062312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012101,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012111,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012201,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012211,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012301,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012311,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2012312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021101,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021111,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021201,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021211,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021301,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021311,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2021312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022101,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022111,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022201,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022211,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022301,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022311,
+        "motionId": 2,
+        "activeEffectId": 10012,
+        "hitEffectId": 20031,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2022312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2051312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 2052312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 3032112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032113,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032114,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 3032212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032213,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032214,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 3032312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032313,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3032314,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 3033112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033113,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033114,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 3033212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033213,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033214,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 3033312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033313,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 3033314,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5011312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5012312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5021312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5022312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5031101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5031111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5031112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5031201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5031211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5031212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5031301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5031311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5031312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5032101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5032111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5032112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5032201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5032211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5032212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 5032301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5032311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 5032312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011101,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20017,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20017,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011201,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20018,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20018,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011301,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20019,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20019,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6011312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012101,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20017,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20017,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012201,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20018,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20018,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012301,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20019,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20019,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6012312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6021101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6021111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6021201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6021211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6021301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6021311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6022101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6022111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6022201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6022211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6022301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6022311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6031312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20001,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20002,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20003,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6032312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6071101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071102,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071103,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071104,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071113,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071114,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071202,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071203,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071204,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071213,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071214,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071302,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071303,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071304,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071313,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6071314,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072102,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072103,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072104,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072113,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072114,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072202,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072203,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072204,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072213,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072214,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072302,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072303,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072304,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072313,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6072314,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 6081101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081102,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081103,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081104,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081113,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081114,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081202,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081203,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081204,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081213,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081214,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081302,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081303,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081304,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081313,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6081314,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082102,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082103,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082104,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082113,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082114,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082202,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082203,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082204,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082213,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082214,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082302,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082303,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082304,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082313,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 6082314,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011101,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20014,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011201,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20015,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011301,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20016,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7011312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012101,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20014,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012201,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20015,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012301,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20016,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7012312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20014,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20015,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7021312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20016,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022112,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20014,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022212,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20015,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7022312,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20016,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031101,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20011,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20014,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031201,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20012,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20015,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031301,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20013,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20016,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7031312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032101,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20011,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032111,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20014,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20008,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032201,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20012,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032211,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20015,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20009,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032301,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20013,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032311,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20016,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 7032312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20010,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012102,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20020,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 8012112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012113,
+        "motionId": 2,
+        "activeEffectId": 10017,
+        "hitEffectId": 20020,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012202,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20021,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 8012212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012213,
+        "motionId": 2,
+        "activeEffectId": 10017,
+        "hitEffectId": 20021,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012302,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20022,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 8012312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8012313,
+        "motionId": 2,
+        "activeEffectId": 10017,
+        "hitEffectId": 20022,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013101,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013102,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20020,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013111,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 8013112,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20004,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013113,
+        "motionId": 2,
+        "activeEffectId": 10017,
+        "hitEffectId": 20020,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013202,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20021,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 8013212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013213,
+        "motionId": 2,
+        "activeEffectId": 10017,
+        "hitEffectId": 20021,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013301,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013302,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20022,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013311,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 8013312,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20006,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 8013313,
+        "motionId": 2,
+        "activeEffectId": 10017,
+        "hitEffectId": 20022,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 9012201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 9012202,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 9012211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 9012212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 9012213,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 12013201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 12013202,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 12013211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 12013212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 12013213,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 13013201,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 13013202,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 13013211,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 0,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 5,
+        "showValueType": 5
+    },
+    {
+        "skillMstId": 13013212,
+        "motionId": 1,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    },
+    {
+        "skillMstId": 13013213,
+        "motionId": 2,
+        "activeEffectId": 0,
+        "hitEffectId": 20005,
+        "effectAttributeEnableFlag": 1,
+        "passiveMotionType": 4,
+        "showValueType": 4
+    }
+]

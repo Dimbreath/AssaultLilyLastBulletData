@@ -1,0 +1,65 @@
+[
+    {
+        "gveEnemyEnhanceMstId": 333211,
+        "gveEnemyMstId": 333211,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 333221
+    },
+    {
+        "gveEnemyEnhanceMstId": 333212,
+        "gveEnemyMstId": 333212,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 333222
+    },
+    {
+        "gveEnemyEnhanceMstId": 342311,
+        "gveEnemyMstId": 342311,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 342321
+    },
+    {
+        "gveEnemyEnhanceMstId": 342312,
+        "gveEnemyMstId": 342312,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 342322
+    },
+    {
+        "gveEnemyEnhanceMstId": 342313,
+        "gveEnemyMstId": 342313,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 342323
+    },
+    {
+        "gveEnemyEnhanceMstId": 342314,
+        "gveEnemyMstId": 342314,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 342324
+    },
+    {
+        "gveEnemyEnhanceMstId": 342315,
+        "gveEnemyMstId": 342315,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 342325
+    },
+    {
+        "gveEnemyEnhanceMstId": 843311,
+        "gveEnemyMstId": 843311,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 843321
+    },
+    {
+        "gveEnemyEnhanceMstId": 843312,
+        "gveEnemyMstId": 843312,
+        "type": 2,
+        "value": 50,
+        "enhancedGveEnemyMstId": 843322
+    }
+]

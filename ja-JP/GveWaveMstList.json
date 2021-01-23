@@ -1,0 +1,123 @@
+[
+    {
+        "gveWaveMstId": 10011,
+        "gveStageMstId": 110101,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 10021,
+        "gveStageMstId": 110102,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 10031,
+        "gveStageMstId": 110103,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 10041,
+        "gveStageMstId": 110104,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 10051,
+        "gveStageMstId": 110105,
+        "isRare": false,
+        "enemyMinNum": 1,
+        "enemyMaxNum": 1,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 20011,
+        "gveStageMstId": 210101,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 20021,
+        "gveStageMstId": 210102,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 20031,
+        "gveStageMstId": 210103,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 1010011,
+        "gveStageMstId": 10110101,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 1010021,
+        "gveStageMstId": 10110102,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    },
+    {
+        "gveWaveMstId": 1010031,
+        "gveStageMstId": 10110103,
+        "isRare": false,
+        "enemyMinNum": 0,
+        "enemyMaxNum": 0,
+        "dropRewardMinNum": 0,
+        "dropRewardMaxNum": 0,
+        "storyDisplayType": 1,
+        "probability": 100
+    }
+]

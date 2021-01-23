@@ -1,0 +1,16 @@
+[
+    {
+        "weaponAbilityMstId": 1000,
+        "name": "レギオンマッチ",
+        "description": "メモリアスキル効果UP",
+        "contentsType": 1,
+        "cardType": 0
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "name": "対ヒュージ",
+        "description": "メモリアスキル効果UP",
+        "contentsType": 2,
+        "cardType": 0
+    }
+]

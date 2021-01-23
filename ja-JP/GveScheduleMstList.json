@@ -1,0 +1,38 @@
+[
+    {
+        "gveScheduleMstId": 100,
+        "gveMapMstId": 1,
+        "reprintNum": 0,
+        "sortOrder": 1,
+        "scheduleType": 1,
+        "dayOfWeek": 0,
+        "startTime": 1611018000,
+        "endTime": 1924959599,
+        "everydayStartTime": 1611327600,
+        "everydayEndTime": 1611413999
+    },
+    {
+        "gveScheduleMstId": 200,
+        "gveMapMstId": 2,
+        "reprintNum": 0,
+        "sortOrder": 1,
+        "scheduleType": 1,
+        "dayOfWeek": 0,
+        "startTime": 1611018000,
+        "endTime": 1924959599,
+        "everydayStartTime": 1611327600,
+        "everydayEndTime": 1611413999
+    },
+    {
+        "gveScheduleMstId": 10100,
+        "gveMapMstId": 101,
+        "reprintNum": 0,
+        "sortOrder": 1,
+        "scheduleType": 2,
+        "dayOfWeek": 0,
+        "startTime": 1611104400,
+        "endTime": 1612079999,
+        "everydayStartTime": 1611327600,
+        "everydayEndTime": 1611413999
+    }
+]

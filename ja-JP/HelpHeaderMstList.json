@@ -1,0 +1,214 @@
+[
+    {
+        "sceneName": "Album",
+        "helpMstId": 2007
+    },
+    {
+        "sceneName": "CharmInfo",
+        "helpMstId": 9004
+    },
+    {
+        "sceneName": "Chat",
+        "helpMstId": 13001
+    },
+    {
+        "sceneName": "ChatSetting",
+        "helpMstId": 2011
+    },
+    {
+        "sceneName": "DataSuccession",
+        "helpMstId": 2010
+    },
+    {
+        "sceneName": "EquipEdit",
+        "helpMstId": 9003
+    },
+    {
+        "sceneName": "EquipEditList",
+        "helpMstId": 9008
+    },
+    {
+        "sceneName": "EquipEditSelectLily",
+        "helpMstId": 9001
+    },
+    {
+        "sceneName": "EquipEditSubSelect",
+        "helpMstId": 9007
+    },
+    {
+        "sceneName": "Evolution",
+        "helpMstId": 8003
+    },
+    {
+        "sceneName": "Friend",
+        "helpMstId": 2006
+    },
+    {
+        "sceneName": "Gacha",
+        "helpMstId": 10001
+    },
+    {
+        "sceneName": "Guild",
+        "helpMstId": 5001
+    },
+    {
+        "sceneName": "GuildDonation",
+        "helpMstId": 5008
+    },
+    {
+        "sceneName": "GuildInformation",
+        "helpMstId": 5009
+    },
+    {
+        "sceneName": "GuildInviteList",
+        "helpMstId": 1006
+    },
+    {
+        "sceneName": "GuildManagement",
+        "helpMstId": 5002
+    },
+    {
+        "sceneName": "Home",
+        "helpMstId": 1001
+    },
+    {
+        "sceneName": "Item",
+        "helpMstId": 2003
+    },
+    {
+        "sceneName": "LilyInfo",
+        "helpMstId": 7001
+    },
+    {
+        "sceneName": "LilyProfile",
+        "helpMstId": 2008
+    },
+    {
+        "sceneName": "LilySetting",
+        "helpMstId": 1002
+    },
+    {
+        "sceneName": "LimitBreak",
+        "helpMstId": 8004
+    },
+    {
+        "sceneName": "List",
+        "helpMstId": 8011
+    },
+    {
+        "sceneName": "Manufacture",
+        "helpMstId": 12001
+    },
+    {
+        "sceneName": "MedalExchange",
+        "helpMstId": 2005
+    },
+    {
+        "sceneName": "MemoriaInfo",
+        "helpMstId": 9005
+    },
+    {
+        "sceneName": "MemoriaPlaySetting",
+        "helpMstId": 1003
+    },
+    {
+        "sceneName": "Mission",
+        "helpMstId": 1004
+    },
+    {
+        "sceneName": "PresentBox",
+        "helpMstId": 1005
+    },
+    {
+        "sceneName": "Profile",
+        "helpMstId": 2001
+    },
+    {
+        "sceneName": "QuestBeforeChapter",
+        "helpMstId": 3002
+    },
+    {
+        "sceneName": "QuestBeforeDeckSelect",
+        "helpMstId": 4001
+    },
+    {
+        "sceneName": "QuestBeforeSection",
+        "helpMstId": 3007
+    },
+    {
+        "sceneName": "QuestBeforeStageInfo",
+        "helpMstId": 3008
+    },
+    {
+        "sceneName": "QuestBeforeTop",
+        "helpMstId": 3001
+    },
+    {
+        "sceneName": "QuestEvent",
+        "helpMstId": 3003
+    },
+    {
+        "sceneName": "QuestLegionDungeon",
+        "helpMstId": 3011
+    },
+    {
+        "sceneName": "RandomOption",
+        "helpMstId": 8008
+    },
+    {
+        "sceneName": "Shop",
+        "helpMstId": 2002
+    },
+    {
+        "sceneName": "Story",
+        "helpMstId": 11003
+    },
+    {
+        "sceneName": "StoryEvent",
+        "helpMstId": 11005
+    },
+    {
+        "sceneName": "StoryLegion",
+        "helpMstId": 11007
+    },
+    {
+        "sceneName": "StoryMain",
+        "helpMstId": 11004
+    },
+    {
+        "sceneName": "StoryMemoria",
+        "helpMstId": 11006
+    },
+    {
+        "sceneName": "StrengthBaseSelect",
+        "helpMstId": 8002
+    },
+    {
+        "sceneName": "StrengthCharmAbilityMerge",
+        "helpMstId": 8007
+    },
+    {
+        "sceneName": "StrengthCharmPlusMerge",
+        "helpMstId": 8006
+    },
+    {
+        "sceneName": "StrengthMemoriaSkillMerge",
+        "helpMstId": 8005
+    },
+    {
+        "sceneName": "StrengthMerge",
+        "helpMstId": 8002
+    },
+    {
+        "sceneName": "StrengthTop",
+        "helpMstId": 8001
+    },
+    {
+        "sceneName": "Support",
+        "helpMstId": 2009
+    },
+    {
+        "sceneName": "TacticsInfo",
+        "helpMstId": 9006
+    }
+]

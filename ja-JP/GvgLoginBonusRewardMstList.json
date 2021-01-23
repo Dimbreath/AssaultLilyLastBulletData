@@ -1,0 +1,162 @@
+[
+    {
+        "gvgLoginBonusRewardMstId": 101,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 1,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 200
+    },
+    {
+        "gvgLoginBonusRewardMstId": 102,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 2,
+        "objectType": 5,
+        "objectId": 2006900,
+        "num": 5
+    },
+    {
+        "gvgLoginBonusRewardMstId": 103,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 3,
+        "objectType": 5,
+        "objectId": 2007200,
+        "num": 5
+    },
+    {
+        "gvgLoginBonusRewardMstId": 104,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 4,
+        "objectType": 5,
+        "objectId": 2007500,
+        "num": 5
+    },
+    {
+        "gvgLoginBonusRewardMstId": 105,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 5,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 200
+    },
+    {
+        "gvgLoginBonusRewardMstId": 106,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 6,
+        "objectType": 7,
+        "objectId": 1,
+        "num": 100000
+    },
+    {
+        "gvgLoginBonusRewardMstId": 107,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 7,
+        "objectType": 5,
+        "objectId": 1000400,
+        "num": 5
+    },
+    {
+        "gvgLoginBonusRewardMstId": 108,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 8,
+        "objectType": 5,
+        "objectId": 1001000,
+        "num": 5
+    },
+    {
+        "gvgLoginBonusRewardMstId": 109,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 9,
+        "objectType": 5,
+        "objectId": 2006500,
+        "num": 50
+    },
+    {
+        "gvgLoginBonusRewardMstId": 110,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 10,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 300
+    },
+    {
+        "gvgLoginBonusRewardMstId": 111,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 11,
+        "objectType": 5,
+        "objectId": 1001200,
+        "num": 2
+    },
+    {
+        "gvgLoginBonusRewardMstId": 112,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 12,
+        "objectType": 5,
+        "objectId": 2007000,
+        "num": 3
+    },
+    {
+        "gvgLoginBonusRewardMstId": 113,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 13,
+        "objectType": 5,
+        "objectId": 2007300,
+        "num": 3
+    },
+    {
+        "gvgLoginBonusRewardMstId": 114,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 14,
+        "objectType": 5,
+        "objectId": 2007600,
+        "num": 3
+    },
+    {
+        "gvgLoginBonusRewardMstId": 115,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 15,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 300
+    },
+    {
+        "gvgLoginBonusRewardMstId": 116,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 16,
+        "objectType": 5,
+        "objectId": 2007100,
+        "num": 1
+    },
+    {
+        "gvgLoginBonusRewardMstId": 117,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 17,
+        "objectType": 5,
+        "objectId": 2007400,
+        "num": 1
+    },
+    {
+        "gvgLoginBonusRewardMstId": 118,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 18,
+        "objectType": 5,
+        "objectId": 2007700,
+        "num": 1
+    },
+    {
+        "gvgLoginBonusRewardMstId": 119,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 19,
+        "objectType": 5,
+        "objectId": 2008000,
+        "num": 1
+    },
+    {
+        "gvgLoginBonusRewardMstId": 120,
+        "gvgLoginBonusMstId": 1,
+        "dayCount": 20,
+        "objectType": 6,
+        "objectId": 1,
+        "num": 500
+    }
+]

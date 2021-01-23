@@ -1,0 +1,164 @@
+[
+    {
+        "legionStoryMstId": 101,
+        "title": "1話　スイレン1",
+        "fileName": "story_legion_0100101",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 102,
+        "title": "1話　スイレン2",
+        "fileName": "story_legion_0100102",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 103,
+        "title": "1話　スイレン3",
+        "fileName": "story_legion_0100103",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 104,
+        "title": "2話　スズラン1",
+        "fileName": "story_legion_0100104",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 105,
+        "title": "2話　スズラン2",
+        "fileName": "story_legion_0100105",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 106,
+        "title": "2話　スズラン3",
+        "fileName": "story_legion_0100106",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 107,
+        "title": "3話　ワスレナグサ1",
+        "fileName": "story_legion_0100107",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 108,
+        "title": "3話　ワスレナグサ2",
+        "fileName": "story_legion_0100108",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 109,
+        "title": "3話　ワスレナグサ3",
+        "fileName": "story_legion_0100109",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 110,
+        "title": "4話　キンモクセイ1",
+        "fileName": "story_legion_0100110",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 111,
+        "title": "4話　キンモクセイ2",
+        "fileName": "story_legion_0100111",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 112,
+        "title": "4話　キンモクセイ3",
+        "fileName": "story_legion_0100112",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 113,
+        "title": "5話　ヒスイカズラ1",
+        "fileName": "story_legion_0100113",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 114,
+        "title": "5話　ヒスイカズラ2",
+        "fileName": "story_legion_0100114",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 115,
+        "title": "5話　ヒスイカズラ3",
+        "fileName": "story_legion_0100115",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 116,
+        "title": "6話　スミレ1",
+        "fileName": "story_legion_0100116",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 117,
+        "title": "6話　スミレ2",
+        "fileName": "story_legion_0100117",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    },
+    {
+        "legionStoryMstId": 118,
+        "title": "6話　スミレ3",
+        "fileName": "story_legion_0100118",
+        "legionMstId": 1,
+        "objectType": 6,
+        "objectId": 0,
+        "num": 30
+    }
+]

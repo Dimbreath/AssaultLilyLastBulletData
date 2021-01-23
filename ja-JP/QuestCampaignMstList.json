@@ -1,0 +1,15 @@
+[
+    {
+        "questCampaignMstId": 1,
+        "questMapMstId": 102,
+        "questAreaMstId": 102101,
+        "scheduleType": 2,
+        "dayOfWeek": 0,
+        "startTime": 1611518400,
+        "endTime": 1611863999,
+        "everydayStartTime": 1611327600,
+        "everydayEndTime": 1611413999,
+        "campaignType": 3,
+        "campaignValue": 200
+    }
+]

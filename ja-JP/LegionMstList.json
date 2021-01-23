@@ -1,0 +1,23 @@
+[
+    {
+        "legionMstId": 1,
+        "gardenMstId": 1,
+        "name": "一柳隊",
+        "shortIntroductionMovieMstId": 30013,
+        "fullIntroductionMovieMstId": 10004
+    },
+    {
+        "legionMstId": 2,
+        "gardenMstId": 2,
+        "name": "ヘルヴォル",
+        "shortIntroductionMovieMstId": 30014,
+        "fullIntroductionMovieMstId": 10005
+    },
+    {
+        "legionMstId": 3,
+        "gardenMstId": 3,
+        "name": "グラン・エプレ",
+        "shortIntroductionMovieMstId": 30015,
+        "fullIntroductionMovieMstId": 10006
+    }
+]

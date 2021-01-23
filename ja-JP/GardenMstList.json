@@ -1,0 +1,17 @@
+[
+    {
+        "gardenMstId": 1,
+        "name": "百合ヶ丘女学院高等学校",
+        "imageId": 2000101
+    },
+    {
+        "gardenMstId": 2,
+        "name": "エレンスゲ女学園高等学校",
+        "imageId": 2000201
+    },
+    {
+        "gardenMstId": 3,
+        "name": "神庭女子藝術高等学校",
+        "imageId": 2000301
+    }
+]

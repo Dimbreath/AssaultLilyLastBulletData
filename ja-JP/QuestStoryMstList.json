@@ -1,0 +1,506 @@
+[
+    {
+        "questStoryMstId": 110101,
+        "questStageMstId": 110101,
+        "title": "1話-1",
+        "fileName1": "story_main_0010101b_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110102,
+        "questStageMstId": 110102,
+        "title": "1話-2",
+        "fileName1": "story_main_0010101c_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110103,
+        "questStageMstId": 110103,
+        "title": "1話-3",
+        "fileName1": "story_main_0010102b_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110104,
+        "questStageMstId": 110104,
+        "title": "1話-4",
+        "fileName1": "story_main_0010103b_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110105,
+        "questStageMstId": 110105,
+        "title": "1話-5",
+        "fileName1": "story_main_0010103b_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110106,
+        "questStageMstId": 110106,
+        "title": "1話-6",
+        "fileName1": "story_main_0010104b_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110107,
+        "questStageMstId": 110107,
+        "title": "1話-7",
+        "fileName1": "story_main_0010104b_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110108,
+        "questStageMstId": 110108,
+        "title": "1話-8",
+        "fileName1": "story_main_0010105b_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110109,
+        "questStageMstId": 110109,
+        "title": "1話-9",
+        "fileName1": "story_main_0010105b_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110110,
+        "questStageMstId": 110110,
+        "title": "1話-10",
+        "fileName1": "story_main_0010105b_4",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110201,
+        "questStageMstId": 110201,
+        "title": "2話-1",
+        "fileName1": "story_main_0010101d_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110203,
+        "questStageMstId": 110203,
+        "title": "2話-2",
+        "fileName1": "story_main_0010102d_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110204,
+        "questStageMstId": 110204,
+        "title": "2話-3",
+        "fileName1": "story_main_0010103d_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110205,
+        "questStageMstId": 110205,
+        "title": "2話-4",
+        "fileName1": "story_main_0010104d_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110208,
+        "questStageMstId": 110208,
+        "title": "2話-5",
+        "fileName1": "story_main_0010105d_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110301,
+        "questStageMstId": 110301,
+        "title": "3話-1",
+        "fileName1": "story_main_0010201a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110304,
+        "questStageMstId": 110304,
+        "title": "3話-2",
+        "fileName1": "story_main_0010202a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110305,
+        "questStageMstId": 110305,
+        "title": "3話-3",
+        "fileName1": "story_main_0010202a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110306,
+        "questStageMstId": 110306,
+        "title": "3話-4",
+        "fileName1": "story_main_0010203a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110307,
+        "questStageMstId": 110307,
+        "title": "3話-5",
+        "fileName1": "story_main_0010204a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110308,
+        "questStageMstId": 110308,
+        "title": "3話-6",
+        "fileName1": "story_main_0010204a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110311,
+        "questStageMstId": 110311,
+        "title": "3話-7",
+        "fileName1": "story_main_0010205a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110401,
+        "questStageMstId": 110401,
+        "title": "4話-1",
+        "fileName1": "story_main_0010301a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110402,
+        "questStageMstId": 110402,
+        "title": "4話-2",
+        "fileName1": "story_main_0010301a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110405,
+        "questStageMstId": 110405,
+        "title": "4話-3",
+        "fileName1": "story_main_0010302a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110408,
+        "questStageMstId": 110408,
+        "title": "4話-4",
+        "fileName1": "story_main_0010303a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110409,
+        "questStageMstId": 110409,
+        "title": "4話-5",
+        "fileName1": "story_main_0010303a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110410,
+        "questStageMstId": 110410,
+        "title": "4話-6",
+        "fileName1": "story_main_0010304a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110411,
+        "questStageMstId": 110411,
+        "title": "4話-7",
+        "fileName1": "story_main_0010304a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110412,
+        "questStageMstId": 110412,
+        "title": "4話-8",
+        "fileName1": "story_main_0010305a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110413,
+        "questStageMstId": 110413,
+        "title": "4話-9",
+        "fileName1": "story_main_0010305a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110501,
+        "questStageMstId": 110501,
+        "title": "5話-1",
+        "fileName1": "story_main_0010401a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110502,
+        "questStageMstId": 110502,
+        "title": "5話-2",
+        "fileName1": "story_main_0010402a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110503,
+        "questStageMstId": 110503,
+        "title": "5話-3",
+        "fileName1": "story_main_0010402a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110504,
+        "questStageMstId": 110504,
+        "title": "5話-4",
+        "fileName1": "story_main_0010403a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110505,
+        "questStageMstId": 110505,
+        "title": "5話-5",
+        "fileName1": "story_main_0010404a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110506,
+        "questStageMstId": 110506,
+        "title": "5話-6",
+        "fileName1": "story_main_0010404a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110507,
+        "questStageMstId": 110507,
+        "title": "5話-7",
+        "fileName1": "story_main_0010404a_3",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110508,
+        "questStageMstId": 110508,
+        "title": "5話-8",
+        "fileName1": "story_main_0010405a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110509,
+        "questStageMstId": 110509,
+        "title": "5話-9",
+        "fileName1": "story_main_0010405a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110601,
+        "questStageMstId": 110601,
+        "title": "6話-1",
+        "fileName1": "story_main_0010501a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110603,
+        "questStageMstId": 110603,
+        "title": "6話-2",
+        "fileName1": "story_main_0010502a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110607,
+        "questStageMstId": 110607,
+        "title": "6話-3",
+        "fileName1": "story_main_0010503a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110608,
+        "questStageMstId": 110608,
+        "title": "6話-4",
+        "fileName1": "story_main_0010504a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110609,
+        "questStageMstId": 110609,
+        "title": "6話-5",
+        "fileName1": "story_main_0010505a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110701,
+        "questStageMstId": 110701,
+        "title": "7話-1",
+        "fileName1": "story_main_0010601a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110702,
+        "questStageMstId": 110702,
+        "title": "7話-2",
+        "fileName1": "story_main_0010602a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110703,
+        "questStageMstId": 110703,
+        "title": "7話-3",
+        "fileName1": "story_main_0010603a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110707,
+        "questStageMstId": 110707,
+        "title": "7話-4",
+        "fileName1": "story_main_0010604a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110708,
+        "questStageMstId": 110708,
+        "title": "7話-5",
+        "fileName1": "story_main_0010605a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110709,
+        "questStageMstId": 110709,
+        "title": "7話-6",
+        "fileName1": "story_main_0010605a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110801,
+        "questStageMstId": 110801,
+        "title": "8話-1",
+        "fileName1": "story_main_0010701a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110802,
+        "questStageMstId": 110802,
+        "title": "8話-2",
+        "fileName1": "story_main_0010702a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110803,
+        "questStageMstId": 110803,
+        "title": "8話-3",
+        "fileName1": "story_main_0010703a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110804,
+        "questStageMstId": 110804,
+        "title": "8話-4",
+        "fileName1": "story_main_0010703a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110806,
+        "questStageMstId": 110806,
+        "title": "8話-5",
+        "fileName1": "story_main_0010704a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110808,
+        "questStageMstId": 110808,
+        "title": "8話-6",
+        "fileName1": "story_main_0010705a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110901,
+        "questStageMstId": 110901,
+        "title": "9話-1",
+        "fileName1": "story_main_0010801a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110902,
+        "questStageMstId": 110902,
+        "title": "9話-2",
+        "fileName1": "story_main_0010801a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110903,
+        "questStageMstId": 110903,
+        "title": "9話-3",
+        "fileName1": "story_main_0010802a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110904,
+        "questStageMstId": 110904,
+        "title": "9話-4",
+        "fileName1": "story_main_0010802a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110905,
+        "questStageMstId": 110905,
+        "title": "9話-5",
+        "fileName1": "story_main_0010803a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110906,
+        "questStageMstId": 110906,
+        "title": "9話-6",
+        "fileName1": "story_main_0010804a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110907,
+        "questStageMstId": 110907,
+        "title": "9話-7",
+        "fileName1": "story_main_0010804a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110908,
+        "questStageMstId": 110908,
+        "title": "9話-8",
+        "fileName1": "story_main_0010805a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 110909,
+        "questStageMstId": 110909,
+        "title": "9話-9",
+        "fileName1": "story_main_0010805a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 111001,
+        "questStageMstId": 111001,
+        "title": "10話-1",
+        "fileName1": "story_main_0010901a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 111002,
+        "questStageMstId": 111002,
+        "title": "10話-2",
+        "fileName1": "story_main_0010902a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 111005,
+        "questStageMstId": 111005,
+        "title": "10話-3",
+        "fileName1": "story_main_0010902a_2",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 111006,
+        "questStageMstId": 111006,
+        "title": "10話-4",
+        "fileName1": "story_main_0010903a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 111007,
+        "questStageMstId": 111007,
+        "title": "10話-5",
+        "fileName1": "story_main_0010904a_1",
+        "fileName2": ""
+    },
+    {
+        "questStoryMstId": 111008,
+        "questStageMstId": 111008,
+        "title": "10話-6",
+        "fileName1": "story_main_0010905a_1",
+        "fileName2": ""
+    }
+]

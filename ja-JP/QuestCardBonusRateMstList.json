@@ -1,0 +1,74 @@
+[
+    {
+        "questCardBonusRateMstId": 201001,
+        "cardUniqueId": 10004001,
+        "itemMstId": 4000400,
+        "questMapMstId": 201,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 210,
+        "limitBreakBonusValue2": 220,
+        "limitBreakBonusValue3": 235,
+        "limitBreakBonusValue4": 250
+    },
+    {
+        "questCardBonusRateMstId": 201002,
+        "cardUniqueId": 10004002,
+        "itemMstId": 4000400,
+        "questMapMstId": 201,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 210,
+        "limitBreakBonusValue2": 220,
+        "limitBreakBonusValue3": 235,
+        "limitBreakBonusValue4": 250
+    },
+    {
+        "questCardBonusRateMstId": 201003,
+        "cardUniqueId": 10004006,
+        "itemMstId": 4000400,
+        "questMapMstId": 201,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 210,
+        "limitBreakBonusValue2": 220,
+        "limitBreakBonusValue3": 235,
+        "limitBreakBonusValue4": 250
+    },
+    {
+        "questCardBonusRateMstId": 201004,
+        "cardUniqueId": 20000064,
+        "itemMstId": 4000400,
+        "questMapMstId": 201,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 210,
+        "limitBreakBonusValue2": 220,
+        "limitBreakBonusValue3": 235,
+        "limitBreakBonusValue4": 250
+    },
+    {
+        "questCardBonusRateMstId": 201005,
+        "cardUniqueId": 20000023,
+        "itemMstId": 4000400,
+        "questMapMstId": 201,
+        "bonusType": 1,
+        "bonusValue": 200,
+        "limitBreakBonusValue1": 210,
+        "limitBreakBonusValue2": 220,
+        "limitBreakBonusValue3": 235,
+        "limitBreakBonusValue4": 250
+    },
+    {
+        "questCardBonusRateMstId": 201006,
+        "cardUniqueId": 20000022,
+        "itemMstId": 4000400,
+        "questMapMstId": 201,
+        "bonusType": 1,
+        "bonusValue": 110,
+        "limitBreakBonusValue1": 115,
+        "limitBreakBonusValue2": 120,
+        "limitBreakBonusValue3": 130,
+        "limitBreakBonusValue4": 140
+    }
+]

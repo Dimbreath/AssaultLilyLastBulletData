@@ -1,0 +1,332 @@
+[
+    {
+        "gvgRewardMstId": 101,
+        "guildRankMstId": 1,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 3,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 102,
+        "guildRankMstId": 1,
+        "rewardType": 2,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 103,
+        "guildRankMstId": 1,
+        "rewardType": 3,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 104,
+        "guildRankMstId": 1,
+        "rewardType": 4,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 105,
+        "guildRankMstId": 1,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 106,
+        "guildRankMstId": 1,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 201,
+        "guildRankMstId": 2,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 4,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 202,
+        "guildRankMstId": 2,
+        "rewardType": 2,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 203,
+        "guildRankMstId": 2,
+        "rewardType": 3,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 204,
+        "guildRankMstId": 2,
+        "rewardType": 4,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 205,
+        "guildRankMstId": 2,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 3,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 206,
+        "guildRankMstId": 2,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 301,
+        "guildRankMstId": 3,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 302,
+        "guildRankMstId": 3,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 5,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 303,
+        "guildRankMstId": 3,
+        "rewardType": 2,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 304,
+        "guildRankMstId": 3,
+        "rewardType": 3,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 305,
+        "guildRankMstId": 3,
+        "rewardType": 4,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 306,
+        "guildRankMstId": 3,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 4,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 307,
+        "guildRankMstId": 3,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 401,
+        "guildRankMstId": 4,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 402,
+        "guildRankMstId": 4,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 6,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 403,
+        "guildRankMstId": 4,
+        "rewardType": 2,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 404,
+        "guildRankMstId": 4,
+        "rewardType": 3,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 405,
+        "guildRankMstId": 4,
+        "rewardType": 4,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 406,
+        "guildRankMstId": 4,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 7,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 407,
+        "guildRankMstId": 4,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 501,
+        "guildRankMstId": 5,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 3,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 502,
+        "guildRankMstId": 5,
+        "rewardType": 1,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 7,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 503,
+        "guildRankMstId": 5,
+        "rewardType": 2,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 1,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 504,
+        "guildRankMstId": 5,
+        "rewardType": 3,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 2,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 505,
+        "guildRankMstId": 5,
+        "rewardType": 4,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 3,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 506,
+        "guildRankMstId": 5,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000200,
+        "num": 10,
+        "comment": "0"
+    },
+    {
+        "gvgRewardMstId": 507,
+        "guildRankMstId": 5,
+        "rewardType": 5,
+        "comboCount": 0,
+        "objectType": 5,
+        "objectId": 4000100,
+        "num": 3,
+        "comment": "0"
+    }
+]

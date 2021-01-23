@@ -1,0 +1,135 @@
+[
+    {
+        "collectionPublicationRestrictionsMstId": 10001,
+        "objectType": 1,
+        "objectId": 102295,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10002,
+        "objectType": 1,
+        "objectId": 102296,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10003,
+        "objectType": 1,
+        "objectId": 1202305,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10004,
+        "objectType": 1,
+        "objectId": 1202306,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10005,
+        "objectType": 1,
+        "objectId": 1202315,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10006,
+        "objectType": 1,
+        "objectId": 1202316,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10007,
+        "objectType": 1,
+        "objectId": 1202325,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10008,
+        "objectType": 1,
+        "objectId": 1202326,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10009,
+        "objectType": 1,
+        "objectId": 1202335,
+        "startTime": 1611302400,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10010,
+        "objectType": 1,
+        "objectId": 1202336,
+        "startTime": 1611302400,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10011,
+        "objectType": 1,
+        "objectId": 1202345,
+        "startTime": 1611302400,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10012,
+        "objectType": 1,
+        "objectId": 1202346,
+        "startTime": 1611302400,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10013,
+        "objectType": 1,
+        "objectId": 1202355,
+        "startTime": 1611561600,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10014,
+        "objectType": 1,
+        "objectId": 1202356,
+        "startTime": 1611561600,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10019,
+        "objectType": 1,
+        "objectId": 102444,
+        "startTime": 1611716400,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 10020,
+        "objectType": 1,
+        "objectId": 102445,
+        "startTime": 1611716400,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 40001,
+        "objectType": 4,
+        "objectId": 4001,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 40002,
+        "objectType": 4,
+        "objectId": 4002,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    },
+    {
+        "collectionPublicationRestrictionsMstId": 40003,
+        "objectType": 4,
+        "objectId": 4006,
+        "startTime": 1611108000,
+        "endTime": -62170017539
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 1,
+        "effectValue": 1
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 2,
+        "effectValue": 2
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 3,
+        "effectValue": 3
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 4,
+        "effectValue": 4
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 5,
+        "effectValue": 5
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 6,
+        "effectValue": 6
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 7,
+        "effectValue": 7
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 8,
+        "effectValue": 8
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 9,
+        "effectValue": 9
+    },
+    {
+        "weaponAbilityMstId": 1000,
+        "level": 10,
+        "effectValue": 10
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 1,
+        "effectValue": 1
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 2,
+        "effectValue": 2
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 3,
+        "effectValue": 3
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 4,
+        "effectValue": 4
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 5,
+        "effectValue": 5
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 6,
+        "effectValue": 6
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 7,
+        "effectValue": 7
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 8,
+        "effectValue": 8
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 9,
+        "effectValue": 9
+    },
+    {
+        "weaponAbilityMstId": 2000,
+        "level": 10,
+        "effectValue": 10
+    }
+]

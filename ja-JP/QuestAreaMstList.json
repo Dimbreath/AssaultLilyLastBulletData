@@ -1,0 +1,226 @@
+[
+    {
+        "questAreaMstId": 1101,
+        "questMapMstId": 1,
+        "name": "1話",
+        "description": "雨中の救出作戦",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1102,
+        "questMapMstId": 1,
+        "name": "2話",
+        "description": "街を彩る新たな絆",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1103,
+        "questMapMstId": 1,
+        "name": "3話",
+        "description": "レギオン合同訓練",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1104,
+        "questMapMstId": 1,
+        "name": "4話",
+        "description": "交わる３校の道",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1105,
+        "questMapMstId": 1,
+        "name": "5話",
+        "description": "決戦！特型ヒュージ",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1106,
+        "questMapMstId": 1,
+        "name": "6話",
+        "description": "神庭女子藝術高校",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1107,
+        "questMapMstId": 1,
+        "name": "7話",
+        "description": "エレンスゲ女学園",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1108,
+        "questMapMstId": 1,
+        "name": "8話",
+        "description": "エリアディフェンス崩壊",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1109,
+        "questMapMstId": 1,
+        "name": "9話",
+        "description": "都内攻防戦・前編",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1110,
+        "questMapMstId": 1,
+        "name": "10話",
+        "description": "都内攻防戦・後編",
+        "mode": 1,
+        "hasNextComingSoon": true
+    },
+    {
+        "questAreaMstId": 1201,
+        "questMapMstId": 1,
+        "name": "1話",
+        "description": "雨中の救出作戦",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1202,
+        "questMapMstId": 1,
+        "name": "2話",
+        "description": "街を彩る新たな絆",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1203,
+        "questMapMstId": 1,
+        "name": "3話",
+        "description": "レギオン合同訓練",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1204,
+        "questMapMstId": 1,
+        "name": "4話",
+        "description": "交わる３校の道",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1205,
+        "questMapMstId": 1,
+        "name": "5話",
+        "description": "決戦！特型ヒュージ",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1206,
+        "questMapMstId": 1,
+        "name": "6話",
+        "description": "神庭女子藝術高校",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1207,
+        "questMapMstId": 1,
+        "name": "7話",
+        "description": "エレンスゲ女学園高等学校",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1208,
+        "questMapMstId": 1,
+        "name": "8話",
+        "description": "エリアディフェンス崩壊",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1209,
+        "questMapMstId": 1,
+        "name": "9話",
+        "description": "都内攻防戦・前編",
+        "mode": 2,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 1210,
+        "questMapMstId": 1,
+        "name": "10話",
+        "description": "都内攻防戦・後編",
+        "mode": 2,
+        "hasNextComingSoon": true
+    },
+    {
+        "questAreaMstId": 101101,
+        "questMapMstId": 101,
+        "name": "デイリー",
+        "description": "コイン収集任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 102101,
+        "questMapMstId": 102,
+        "name": "デイリー",
+        "description": "メモリア強化任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 103101,
+        "questMapMstId": 103,
+        "name": "デイリー",
+        "description": "CHARM強化任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 104101,
+        "questMapMstId": 104,
+        "name": "デイリー",
+        "description": "CHARM出力強化任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 105101,
+        "questMapMstId": 105,
+        "name": "デイリー",
+        "description": "CHARM進化任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 106101,
+        "questMapMstId": 106,
+        "name": "デイリー",
+        "description": "メモリア進化任務",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 201101,
+        "questMapMstId": 201,
+        "name": "メダルイベント",
+        "description": "守護天使の誓い",
+        "mode": 1,
+        "hasNextComingSoon": false
+    },
+    {
+        "questAreaMstId": 201201,
+        "questMapMstId": 201,
+        "name": "メダルイベント",
+        "description": "守護天使の誓い",
+        "mode": 2,
+        "hasNextComingSoon": false
+    }
+]

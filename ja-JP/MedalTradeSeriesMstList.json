@@ -1,0 +1,50 @@
+[
+    {
+        "medalTradeSeriesMstId": 1,
+        "name": "レギオンメダル交換所",
+        "description": "レギオン活動で獲得することができるメダル",
+        "sortOrder": 100,
+        "itemMstId": 4000200,
+        "viewable": 1
+    },
+    {
+        "medalTradeSeriesMstId": 2,
+        "name": "ペンダントメダル交換所",
+        "description": "各種イベントや報酬で獲得することができるメダル",
+        "sortOrder": 100,
+        "itemMstId": 4000100,
+        "viewable": 1
+    },
+    {
+        "medalTradeSeriesMstId": 3,
+        "name": "オーダーメダル交換所",
+        "description": "各種イベントや報酬で獲得することができるメダル",
+        "sortOrder": 100,
+        "itemMstId": 4001600,
+        "viewable": 1
+    },
+    {
+        "medalTradeSeriesMstId": 1000,
+        "name": "ボーナスメダルⅠ交換所",
+        "description": "ガチャで獲得することができるメダル",
+        "sortOrder": 10,
+        "itemMstId": 3000100,
+        "viewable": 1
+    },
+    {
+        "medalTradeSeriesMstId": 1001,
+        "name": "ボーナスメダルⅡ交換所",
+        "description": "ガチャで獲得することができるメダル",
+        "sortOrder": 10,
+        "itemMstId": 3000200,
+        "viewable": 1
+    },
+    {
+        "medalTradeSeriesMstId": 5000,
+        "name": "守護天使の誓いメダル交換所",
+        "description": "イベントで獲得することができるメダル",
+        "sortOrder": 1,
+        "itemMstId": 4000400,
+        "viewable": 1
+    }
+]

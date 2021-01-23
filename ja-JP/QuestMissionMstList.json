@@ -1,0 +1,50 @@
+[
+    {
+        "questMissionMstId": 1,
+        "name": "コンティニューせずにクリア",
+        "description": "",
+        "conditionType": 1,
+        "conditionId": 0,
+        "conditionValue": 0
+    },
+    {
+        "questMissionMstId": 2,
+        "name": "残り時間{0}分以上残してクリア",
+        "description": "",
+        "conditionType": 2,
+        "conditionId": 0,
+        "conditionValue": 1
+    },
+    {
+        "questMissionMstId": 3,
+        "name": "メモリアスキルを{0}回以上使ってクリア",
+        "description": "",
+        "conditionType": 3,
+        "conditionId": 0,
+        "conditionValue": 1
+    },
+    {
+        "questMissionMstId": 201001,
+        "name": "コンティニューせずにクリア",
+        "description": "NULL",
+        "conditionType": 1,
+        "conditionId": 0,
+        "conditionValue": 0
+    },
+    {
+        "questMissionMstId": 201002,
+        "name": "残り時間1分以上残してクリア",
+        "description": "NULL",
+        "conditionType": 2,
+        "conditionId": 0,
+        "conditionValue": 1
+    },
+    {
+        "questMissionMstId": 201003,
+        "name": "メモリアスキルを1回以上使ってクリア",
+        "description": "NULL",
+        "conditionType": 3,
+        "conditionId": 0,
+        "conditionValue": 1
+    }
+]

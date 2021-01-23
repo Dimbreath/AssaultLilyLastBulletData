@@ -1,0 +1,65 @@
+[
+    {
+        "guildBenefitQuestMstId": 1000,
+        "name": "対ヒュージ：LP獲得量UP",
+        "type": 1,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く対ヒュージのバトルでLP獲得量がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577718000,
+        "endTime": 1924959599
+    },
+    {
+        "guildBenefitQuestMstId": 2000,
+        "name": "対ヒュージ：経験値獲得量UP",
+        "type": 2,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く対ヒュージのバトルで経験値獲得量がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577718000,
+        "endTime": 1924959599
+    },
+    {
+        "guildBenefitQuestMstId": 3000,
+        "name": "対ヒュージ：火属性メモリア効果UP",
+        "type": 3,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く対ヒュージのバトルで火属性メモリア効果がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577718000,
+        "endTime": 1924959599
+    },
+    {
+        "guildBenefitQuestMstId": 4000,
+        "name": "対ヒュージ：水属性メモリア効果UP",
+        "type": 4,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く対ヒュージのバトルで水属性メモリア効果がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577718000,
+        "endTime": 1924959599
+    },
+    {
+        "guildBenefitQuestMstId": 5000,
+        "name": "対ヒュージ：風属性メモリア効果UP",
+        "type": 5,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く対ヒュージのバトルで風属性メモリア効果がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577718000,
+        "endTime": 1924959599
+    },
+    {
+        "guildBenefitQuestMstId": 6000,
+        "name": "対ヒュージ：メダル獲得量UP　※ 1/31 16:59まで",
+        "type": 6,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く守護天使の誓いイベントでメダル獲得量がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577804400,
+        "endTime": 1612079999
+    },
+    {
+        "guildBenefitQuestMstId": 7000,
+        "name": "対ヒュージ：コイン獲得量UP",
+        "type": 7,
+        "guildLevel": 1,
+        "text": "30分間、外征任務を除く対ヒュージのバトルでコイン獲得量がUPする　［1Lv 1%UP/最大10％］",
+        "startTime": 1577718000,
+        "endTime": 1924959599
+    }
+]
